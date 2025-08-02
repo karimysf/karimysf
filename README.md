@@ -9,6 +9,7 @@ Hey there! I'm Karim, a final-year engineering student at EMI (École Mohammadia
 ![](https://nirzak-streak-stats.vercel.app/?user=karimysf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karimysf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+🔗 [My LeetCode Profile](https://leetcode.com/u/tTBN31svIo/)
 ---
 [![](https://visitcount.itsvg.in/api?id=karimysf&icon=0&color=0)](https://visitcount.itsvg.in)
 
